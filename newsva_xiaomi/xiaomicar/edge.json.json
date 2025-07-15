@@ -1,0 +1,782 @@
+[
+  {
+    "source": "NOA",
+    "target": "铜陵",
+    "weight": 14
+  },
+  {
+    "source": "王女士",
+    "target": "铜陵",
+    "weight": 4
+  },
+  {
+    "source": "安徽",
+    "target": "铜陵",
+    "weight": 28
+  },
+  {
+    "source": "广东",
+    "target": "铜陵",
+    "weight": 1
+  },
+  {
+    "source": "胡先生",
+    "target": "铜陵",
+    "weight": 1
+  },
+  {
+    "source": "枞阳县",
+    "target": "铜陵",
+    "weight": 6
+  },
+  {
+    "source": "安徽",
+    "target": "王女士",
+    "weight": 6
+  },
+  {
+    "source": "广东",
+    "target": "王女士",
+    "weight": 1
+  },
+  {
+    "source": "王女士",
+    "target": "胡先生",
+    "weight": 1
+  },
+  {
+    "source": "枞阳县",
+    "target": "王女士",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "广东",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "胡先生",
+    "weight": 1
+  },
+  {
+    "source": "安徽",
+    "target": "枞阳县",
+    "weight": 7
+  },
+  {
+    "source": "广东",
+    "target": "胡先生",
+    "weight": 1
+  },
+  {
+    "source": "广东",
+    "target": "枞阳县",
+    "weight": 1
+  },
+  {
+    "source": "枞阳县",
+    "target": "胡先生",
+    "weight": 1
+  },
+  {
+    "source": "铜陵",
+    "target": "铜陵市",
+    "weight": 10
+  },
+  {
+    "source": "安徽",
+    "target": "铜陵市",
+    "weight": 12
+  },
+  {
+    "source": "公安局",
+    "target": "铜陵市",
+    "weight": 4
+  },
+  {
+    "source": "新闻周刊",
+    "target": "铜陵市",
+    "weight": 1
+  },
+  {
+    "source": "公安局",
+    "target": "铜陵",
+    "weight": 3
+  },
+  {
+    "source": "新闻周刊",
+    "target": "铜陵",
+    "weight": 3
+  },
+  {
+    "source": "公安局",
+    "target": "安徽",
+    "weight": 4
+  },
+  {
+    "source": "安徽",
+    "target": "新闻周刊",
+    "weight": 4
+  },
+  {
+    "source": "公安局",
+    "target": "新闻周刊",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "安徽",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "安徽",
+    "weight": 26
+  },
+  {
+    "source": "安徽",
+    "target": "罗某",
+    "weight": 7
+  },
+  {
+    "source": "新闻周刊",
+    "target": "浙江",
+    "weight": 1
+  },
+  {
+    "source": "李某",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "罗某",
+    "target": "铜陵市",
+    "weight": 3
+  },
+  {
+    "source": "武汉",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "深圳",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "铜陵市",
+    "target": "高铁",
+    "weight": 2
+  },
+  {
+    "source": "李某",
+    "target": "铜陵",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "李某",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "李某",
+    "weight": 2
+  },
+  {
+    "source": "李某",
+    "target": "罗某",
+    "weight": 2
+  },
+  {
+    "source": "李某",
+    "target": "武汉",
+    "weight": 2
+  },
+  {
+    "source": "李某",
+    "target": "深圳",
+    "weight": 2
+  },
+  {
+    "source": "李某",
+    "target": "高铁",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "铜陵",
+    "weight": 2
+  },
+  {
+    "source": "罗某",
+    "target": "铜陵",
+    "weight": 6
+  },
+  {
+    "source": "武汉",
+    "target": "铜陵",
+    "weight": 5
+  },
+  {
+    "source": "深圳",
+    "target": "铜陵",
+    "weight": 2
+  },
+  {
+    "source": "铜陵",
+    "target": "高铁",
+    "weight": 3
+  },
+  {
+    "source": "安徽",
+    "target": "张洁",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "武汉",
+    "weight": 5
+  },
+  {
+    "source": "安徽",
+    "target": "深圳",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "高铁",
+    "weight": 5
+  },
+  {
+    "source": "张洁",
+    "target": "罗某",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "武汉",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "深圳",
+    "weight": 2
+  },
+  {
+    "source": "张洁",
+    "target": "高铁",
+    "weight": 2
+  },
+  {
+    "source": "武汉",
+    "target": "罗某",
+    "weight": 3
+  },
+  {
+    "source": "深圳",
+    "target": "罗某",
+    "weight": 4
+  },
+  {
+    "source": "罗某",
+    "target": "高铁",
+    "weight": 2
+  },
+  {
+    "source": "武汉",
+    "target": "深圳",
+    "weight": 3
+  },
+  {
+    "source": "武汉",
+    "target": "高铁",
+    "weight": 3
+  },
+  {
+    "source": "深圳",
+    "target": "高铁",
+    "weight": 2
+  },
+  {
+    "source": "SUV",
+    "target": "央视",
+    "weight": 4
+  },
+  {
+    "source": "政府",
+    "target": "铜陵市",
+    "weight": 4
+  },
+  {
+    "source": "枞阳县",
+    "target": "铜陵市",
+    "weight": 6
+  },
+  {
+    "source": "政府",
+    "target": "铜陵",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "政府",
+    "weight": 3
+  },
+  {
+    "source": "公安局",
+    "target": "政府",
+    "weight": 3
+  },
+  {
+    "source": "公安局",
+    "target": "枞阳县",
+    "weight": 3
+  },
+  {
+    "source": "政府",
+    "target": "枞阳县",
+    "weight": 4
+  },
+  {
+    "source": "专案组",
+    "target": "铜陵市",
+    "weight": 7
+  },
+  {
+    "source": "王女士",
+    "target": "罗先生",
+    "weight": 4
+  },
+  {
+    "source": "安徽",
+    "target": "罗先生",
+    "weight": 5
+  },
+  {
+    "source": "NOA",
+    "target": "罗先生",
+    "weight": 3
+  },
+  {
+    "source": "NOA",
+    "target": "王女士",
+    "weight": 3
+  },
+  {
+    "source": "NOA",
+    "target": "铜陵市",
+    "weight": 7
+  },
+  {
+    "source": "罗先生",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "NOA",
+    "target": "专案组",
+    "weight": 5
+  },
+  {
+    "source": "NOA",
+    "target": "公安局",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "政府",
+    "weight": 2
+  },
+  {
+    "source": "NOA",
+    "target": "枞阳县",
+    "weight": 3
+  },
+  {
+    "source": "专案组",
+    "target": "安徽",
+    "weight": 5
+  },
+  {
+    "source": "专案组",
+    "target": "公安局",
+    "weight": 1
+  },
+  {
+    "source": "专案组",
+    "target": "政府",
+    "weight": 2
+  },
+  {
+    "source": "专案组",
+    "target": "罗先生",
+    "weight": 3
+  },
+  {
+    "source": "专案组",
+    "target": "枞阳县",
+    "weight": 2
+  },
+  {
+    "source": "公安局",
+    "target": "罗先生",
+    "weight": 1
+  },
+  {
+    "source": "政府",
+    "target": "罗先生",
+    "weight": 2
+  },
+  {
+    "source": "枞阳县",
+    "target": "罗先生",
+    "weight": 2
+  },
+  {
+    "source": "张远",
+    "target": "袁娅维",
+    "weight": 2
+  },
+  {
+    "source": "温奕心",
+    "target": "袁娅维",
+    "weight": 2
+  },
+  {
+    "source": "SUV",
+    "target": "袁娅维",
+    "weight": 2
+  },
+  {
+    "source": "张远",
+    "target": "温奕心",
+    "weight": 2
+  },
+  {
+    "source": "SUV",
+    "target": "张远",
+    "weight": 2
+  },
+  {
+    "source": "SUV",
+    "target": "温奕心",
+    "weight": 2
+  },
+  {
+    "source": "NOA",
+    "target": "罗某",
+    "weight": 3
+  },
+  {
+    "source": "NOA",
+    "target": "广东",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "新闻周刊",
+    "weight": 1
+  },
+  {
+    "source": "广东",
+    "target": "罗某",
+    "weight": 1
+  },
+  {
+    "source": "新闻周刊",
+    "target": "罗某",
+    "weight": 3
+  },
+  {
+    "source": "广东",
+    "target": "新闻周刊",
+    "weight": 1
+  },
+  {
+    "source": "ADS",
+    "target": "英国",
+    "weight": 4
+  },
+  {
+    "source": "四川",
+    "target": "米粉",
+    "weight": 1
+  },
+  {
+    "source": "ADS",
+    "target": "SUV",
+    "weight": 4
+  },
+  {
+    "source": "ADS",
+    "target": "武汉",
+    "weight": 1
+  },
+  {
+    "source": "SUV",
+    "target": "武汉",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "米粉",
+    "weight": 2
+  },
+  {
+    "source": "ADS",
+    "target": "米粉",
+    "weight": 1
+  },
+  {
+    "source": "安徽",
+    "target": "米粉",
+    "weight": 3
+  },
+  {
+    "source": "ADS",
+    "target": "NOA",
+    "weight": 1
+  },
+  {
+    "source": "ADS",
+    "target": "安徽",
+    "weight": 2
+  },
+  {
+    "source": "ADS",
+    "target": "高铁",
+    "weight": 1
+  },
+  {
+    "source": "张翔",
+    "target": "铜陵",
+    "weight": 1
+  },
+  {
+    "source": "央视",
+    "target": "研究院",
+    "weight": 1
+  },
+  {
+    "source": "SUV",
+    "target": "研究院",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "施工方",
+    "weight": 4
+  },
+  {
+    "source": "施工方",
+    "target": "林志颖",
+    "weight": 1
+  },
+  {
+    "source": "施工方",
+    "target": "米粉",
+    "weight": 2
+  },
+  {
+    "source": "四川",
+    "target": "安徽",
+    "weight": 1
+  },
+  {
+    "source": "SUV",
+    "target": "英国",
+    "weight": 2
+  },
+  {
+    "source": "NOA",
+    "target": "孙颖莎",
+    "weight": 7
+  },
+  {
+    "source": "NOA",
+    "target": "SUV",
+    "weight": 5
+  },
+  {
+    "source": "SUV",
+    "target": "孙颖莎",
+    "weight": 5
+  },
+  {
+    "source": "安徽",
+    "target": "施工方",
+    "weight": 2
+  },
+  {
+    "source": "SUV",
+    "target": "高速路",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "武汉",
+    "weight": 2
+  },
+  {
+    "source": "Ultra",
+    "target": "刘亦菲",
+    "weight": 4
+  },
+  {
+    "source": "SUV",
+    "target": "长城汽车",
+    "weight": 3
+  },
+  {
+    "source": "武汉",
+    "target": "雷总",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "长城汽车",
+    "weight": 8
+  },
+  {
+    "source": "王女士",
+    "target": "罗某",
+    "weight": 1
+  },
+  {
+    "source": "武汉",
+    "target": "王女士",
+    "weight": 1
+  },
+  {
+    "source": "SUV",
+    "target": "Ultra",
+    "weight": 4
+  },
+  {
+    "source": "SUV",
+    "target": "刘亦菲",
+    "weight": 3
+  },
+  {
+    "source": "NOA",
+    "target": "研究院",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "铜陵市",
+    "weight": 2
+  },
+  {
+    "source": "NOA",
+    "target": "南方",
+    "weight": 2
+  },
+  {
+    "source": "南方",
+    "target": "铜陵",
+    "weight": 1
+  },
+  {
+    "source": "安徽",
+    "target": "浙江",
+    "weight": 1
+  },
+  {
+    "source": "专案组",
+    "target": "铜陵",
+    "weight": 3
+  },
+  {
+    "source": "专案组",
+    "target": "罗某",
+    "weight": 1
+  },
+  {
+    "source": "Ultra",
+    "target": "武汉大学",
+    "weight": 2
+  },
+  {
+    "source": "Ultra",
+    "target": "安徽",
+    "weight": 2
+  },
+  {
+    "source": "安徽",
+    "target": "武汉大学",
+    "weight": 2
+  },
+  {
+    "source": "南方",
+    "target": "研究院",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "美国",
+    "weight": 1
+  },
+  {
+    "source": "NOA",
+    "target": "张翔",
+    "weight": 1
+  },
+  {
+    "source": "安徽",
+    "target": "美国",
+    "weight": 1
+  },
+  {
+    "source": "张翔",
+    "target": "美国",
+    "weight": 1
+  },
+  {
+    "source": "安徽",
+    "target": "张翔",
+    "weight": 1
+  },
+  {
+    "source": "罗先生",
+    "target": "铜陵",
+    "weight": 2
+  },
+  {
+    "source": "专案组",
+    "target": "王女士",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "四川",
+    "weight": 1
+  },
+  {
+    "source": "专案组",
+    "target": "南方",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "政府",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "罗先生",
+    "weight": 1
+  },
+  {
+    "source": "南方",
+    "target": "枞阳县",
+    "weight": 1
+  }
+]

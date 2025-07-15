@@ -1,0 +1,190 @@
+[
+  {
+    "id": "孙颖莎",
+    "category": "人物"
+  },
+  {
+    "id": "罗先生",
+    "category": "人物"
+  },
+  {
+    "id": "罗某",
+    "category": "人物"
+  },
+  {
+    "id": "雷总",
+    "category": "人物"
+  },
+  {
+    "id": "米粉",
+    "category": "人物"
+  },
+  {
+    "id": "刘亦菲",
+    "category": "人物"
+  },
+  {
+    "id": "张洁",
+    "category": "人物"
+  },
+  {
+    "id": "王女士",
+    "category": "人物"
+  },
+  {
+    "id": "专案组",
+    "category": "人物"
+  },
+  {
+    "id": "张翔",
+    "category": "人物"
+  },
+  {
+    "id": "周鸿祎",
+    "category": "人物"
+  },
+  {
+    "id": "李某",
+    "category": "人物"
+  },
+  {
+    "id": "胡先生",
+    "category": "人物"
+  },
+  {
+    "id": "袁娅维",
+    "category": "人物"
+  },
+  {
+    "id": "张远",
+    "category": "人物"
+  },
+  {
+    "id": "温奕心",
+    "category": "人物"
+  },
+  {
+    "id": "林志颖",
+    "category": "人物"
+  },
+  {
+    "id": "米司",
+    "category": "人物"
+  },
+  {
+    "id": "郭一鹏",
+    "category": "人物"
+  },
+  {
+    "id": "铜陵市",
+    "category": "地点"
+  },
+  {
+    "id": "枞阳县",
+    "category": "地点"
+  },
+  {
+    "id": "安徽",
+    "category": "地点"
+  },
+  {
+    "id": "铜陵",
+    "category": "地点"
+  },
+  {
+    "id": "武汉",
+    "category": "地点"
+  },
+  {
+    "id": "浙江",
+    "category": "地点"
+  },
+  {
+    "id": "深圳",
+    "category": "地点"
+  },
+  {
+    "id": "南方",
+    "category": "地点"
+  },
+  {
+    "id": "四川",
+    "category": "地点"
+  },
+  {
+    "id": "高速路",
+    "category": "地点"
+  },
+  {
+    "id": "美国",
+    "category": "地点"
+  },
+  {
+    "id": "英国",
+    "category": "地点"
+  },
+  {
+    "id": "亚洲",
+    "category": "地点"
+  },
+  {
+    "id": "广东",
+    "category": "地点"
+  },
+  {
+    "id": "NOA",
+    "category": "机构"
+  },
+  {
+    "id": "Ultra",
+    "category": "机构"
+  },
+  {
+    "id": "长城汽车",
+    "category": "机构"
+  },
+  {
+    "id": "SUV",
+    "category": "机构"
+  },
+  {
+    "id": "ADS",
+    "category": "机构"
+  },
+  {
+    "id": "央视",
+    "category": "机构"
+  },
+  {
+    "id": "政府",
+    "category": "机构"
+  },
+  {
+    "id": "施工方",
+    "category": "机构"
+  },
+  {
+    "id": "高铁",
+    "category": "机构"
+  },
+  {
+    "id": "公安局",
+    "category": "机构"
+  },
+  {
+    "id": "新闻周刊",
+    "category": "机构"
+  },
+  {
+    "id": "研究院",
+    "category": "机构"
+  },
+  {
+    "id": "武汉大学",
+    "category": "机构"
+  },
+  {
+    "id": "法务部",
+    "category": "机构"
+  }
+]

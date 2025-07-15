@@ -1,0 +1,773 @@
+[
+  {
+    "name": "北宋",
+    "start": {
+      "year": 960,
+      "month": 1,
+      "day": 4
+    },
+    "end": {
+      "year": 1127,
+      "month": 3,
+      "day": 20
+    },
+    "sub_eras": [
+      {
+        "name": "建隆",
+        "start": {
+            "year": 960,
+            "month": 1,
+            "day": 4
+        },
+        "end": {
+            "year": 963,
+            "month": 11,
+            "day": 16
+        }
+    },
+    {
+        "name": "乾德",
+        "start": {
+            "year": 963,
+            "month": 11,
+            "day": 16
+        },
+        "end": {
+            "year": 968,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "开宝",
+        "start": {
+            "year": 968,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 976,
+            "month": 12,
+            "day": 22
+        }
+    },
+    {
+        "name": "太平兴国",
+        "start": {
+            "year": 976,
+            "month": 12,
+            "day": 22
+        },
+        "end": {
+            "year": 984,
+            "month": 11,
+            "day": 21
+        }
+    },
+    {
+        "name": "雍熙",
+        "start": {
+            "year": 984,
+            "month": 11,
+            "day": 21
+        },
+        "end": {
+            "year": 988,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "端拱",
+        "start": {
+            "year": 988,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 990,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "淳化",
+        "start": {
+            "year": 990,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 994,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "至道",
+        "start": {
+            "year": 994,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 997,
+            "month": 5,
+            "day": 8
+        }
+    },
+    {
+        "name": "咸平",
+        "start": {
+            "year": 997,
+            "month": 5,
+            "day": 8
+        },
+        "end": {
+            "year": 1004,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "景德",
+        "start": {
+            "year": 1004,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1007,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "大中祥符",
+        "start": {
+            "year": 1007,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1016,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "天禧",
+        "start": {
+            "year": 1016,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1022,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "name": "乾兴",
+        "start": {
+            "year": 1022,
+            "month": 2,
+            "day": 1
+        },
+        "end": {
+            "year": 1022,
+            "month": 11,
+            "day": 21
+        }
+    },
+    {
+        "name": "天圣",
+        "start": {
+            "year": 1022,
+            "month": 11,
+            "day": 21
+        },
+        "end": {
+            "year": 1032,
+            "month": 11,
+            "day": 16
+        }
+    },
+    {
+        "name": "明道",
+        "start": {
+            "year": 1032,
+            "month": 11,
+            "day": 16
+        },
+        "end": {
+            "year": 1033,
+            "month": 12,
+            "day": 10
+        }
+    },
+    {
+        "name": "景祐",
+        "start": {
+            "year": 1033,
+            "month": 12,
+            "day": 10
+        },
+        "end": {
+            "year": 1038,
+            "month": 11,
+            "day": 18
+        }
+    },
+    {
+        "name": "宝元",
+        "start": {
+            "year": 1038,
+            "month": 11,
+            "day": 18
+        },
+        "end": {
+            "year": 1040,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "name": "康定",
+        "start": {
+            "year": 1040,
+            "month": 2,
+            "day": 1
+        },
+        "end": {
+            "year": 1041,
+            "month": 11,
+            "day": 20
+        }
+    },
+    {
+        "name": "庆历",
+        "start": {
+            "year": 1041,
+            "month": 11,
+            "day": 20
+        },
+        "end": {
+            "year": 1048,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "皇祐",
+        "start": {
+            "year": 1048,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1054,
+            "month": 3,
+            "day": 16
+        }
+    },
+    {
+        "name": "至和",
+        "start": {
+            "year": 1054,
+            "month": 3,
+            "day": 16
+        },
+        "end": {
+            "year": 1056,
+            "month": 9,
+            "day": 12
+        }
+    },
+    {
+        "name": "嘉祐",
+        "start": {
+            "year": 1056,
+            "month": 9,
+            "day": 12
+        },
+        "end": {
+            "year": 1063,
+            "month": 8,
+            "day": 15
+        }
+    },
+    {
+        "name": "治平",
+        "start": {
+            "year": 1063,
+            "month": 8,
+            "day": 15
+        },
+        "end": {
+            "year": 1067,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "熙宁",
+        "start": {
+            "year": 1067,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1077,
+            "month": 8,
+            "day": 21
+        }
+    },
+    {
+        "name": "元丰",
+        "start": {
+            "year": 1077,
+            "month": 8,
+            "day": 21
+        },
+        "end": {
+            "year": 1085,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "name": "元祐",
+        "start": {
+            "year": 1085,
+            "month": 2,
+            "day": 1
+        },
+        "end": {
+            "year": 1094,
+            "month": 4,
+            "day": 12
+        }
+    },
+    {
+        "name": "绍圣",
+        "start": {
+            "year": 1094,
+            "month": 4,
+            "day": 12
+        },
+        "end": {
+            "year": 1098,
+            "month": 5,
+            "day": 1
+        }
+    },
+    {
+        "name": "元符",
+        "start": {
+            "year": 1098,
+            "month": 5,
+            "day": 1
+        },
+        "end": {
+            "year": 1100,
+            "month": 2,
+            "day": 23
+        }
+    },
+    {
+        "name": "建中靖国",
+        "start": {
+            "year": 1100,
+            "month": 2,
+            "day": 23
+        },
+        "end": {
+            "year": 1101,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "崇宁",
+        "start": {
+            "year": 1101,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1106,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "大观",
+        "start": {
+            "year": 1106,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1110,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "政和",
+        "start": {
+            "year": 1110,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1118,
+            "month": 10,
+            "day": 30
+        }
+    },
+    {
+        "name": "重和",
+        "start": {
+            "year": 1118,
+            "month": 10,
+            "day": 30
+        },
+        "end": {
+            "year": 1119,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "name": "宣和",
+        "start": {
+            "year": 1119,
+            "month": 2,
+            "day": 1
+        },
+        "end": {
+            "year": 1125,
+            "month": 12,
+            "day": 22
+        }
+    },
+    {
+        "name": "靖康",
+        "start": {
+            "year": 1125,
+            "month": 12,
+            "day": 22
+        },
+        "end": {
+            "year": 1127,
+            "month": 3,
+            "day": 20
+        }
+    }
+    ]
+  },
+  {
+    "name": "南宋",
+    "start": {
+      "year": 1127,
+      "month": 3,
+      "day": 20
+    },
+    "end": {
+      "year": 1279,
+      "month": 2,
+      "day": 6
+    },
+    "sub_eras": [
+      {
+        "name": "建炎",
+        "start": {
+            "year": 1127,
+            "month": 3,
+            "day": 20
+        },
+        "end": {
+            "year": 1130,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "绍兴",
+        "start": {
+            "year": 1130,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1162,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "隆兴",
+        "start": {
+            "year": 1162,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1164,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "乾道",
+        "start": {
+            "year": 1164,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1173,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "淳熙",
+        "start": {
+            "year": 1173,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1189,
+            "month": 2,
+            "day": 1
+        }
+    },
+    {
+        "name": "绍熙",
+        "start": {
+            "year": 1189,
+            "month": 2,
+            "day": 1
+        },
+        "end": {
+            "year": 1194,
+            "month": 7,
+            "day": 24
+        }
+    },
+    {
+        "name": "庆元",
+        "start": {
+            "year": 1194,
+            "month": 7,
+            "day": 24
+        },
+        "end": {
+            "year": 1200,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "嘉泰",
+        "start": {
+            "year": 1200,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1204,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "开禧",
+        "start": {
+            "year": 1204,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1208,
+            "month": 11,
+            "day": 2
+        }
+    },
+    {
+        "name": "嘉定",
+        "start": {
+            "year": 1208,
+            "month": 11,
+            "day": 2
+        },
+        "end": {
+            "year": 1224,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "宝庆",
+        "start": {
+            "year": 1224,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1227,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "绍定",
+        "start": {
+            "year": 1227,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1233,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "端平",
+        "start": {
+            "year": 1233,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1236,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "嘉熙",
+        "start": {
+            "year": 1236,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1240,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "淳祐",
+        "start": {
+            "year": 1240,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1252,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "宝祐",
+        "start": {
+            "year": 1252,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1258,
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "name": "开庆",
+        "start": {
+            "year": 1258,
+            "month": 1,
+            "day": 1
+        },
+        "end": {
+            "year": 1259,
+            "month": 12,
+            "day": 1
+        }
+    },
+    {
+        "name": "景定",
+        "start": {
+            "year": 1259,
+            "month": 12,
+            "day": 1
+        },
+        "end": {
+            "year": 1264,
+            "month": 10,
+            "day": 22
+        }
+    },
+    {
+        "name": "咸淳",
+        "start": {
+            "year": 1264,
+            "month": 10,
+            "day": 22
+        },
+        "end": {
+            "year": 1274,
+            "month": 8,
+            "day": 12
+        }
+    },
+    {
+        "name": "德祐",
+        "start": {
+            "year": 1274,
+            "month": 8,
+            "day": 12
+        },
+        "end": {
+            "year": 1276,
+            "month": 2,
+            "day": 4
+        }
+    },
+    {
+        "name": "景炎",
+        "start": {
+            "year": 1276,
+            "month": 2,
+            "day": 4
+        },
+        "end": {
+            "year": 1278,
+            "month": 5,
+            "day": 1
+        }
+    },
+    {
+        "name": "祥兴",
+        "start": {
+            "year": 1278,
+            "month": 5,
+            "day": 1
+        },
+        "end": {
+            "year": 1279,
+            "month": 2,
+            "day": 6
+        }
+    }
+    ]
+  }
+]
